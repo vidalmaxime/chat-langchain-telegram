@@ -1,3 +1,16 @@
+---
+title: Telegram Chat Chat
+emoji: 🤗
+colorFrom: gray
+colorTo: purple
+sdk: gradio
+sdk_version: 3.17.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+
 # Chat with your Telegram Chat! 
 
 Understand who you are and your relationships by creating a ChatGPT like experience over your own Telegram chat with [LangChain](https://github.com/hwchase17/langchain). 
