@@ -43,7 +43,9 @@ You can then embed the data by running
 
 ## Running the Application
 
-By running `python app.py` from the command line you can easily interact with your Telegram Chat through a Gradio Web App.  
+You can query your embedded data by running `python cli_app.py`.
+
+You can also easily interact with your Telegram Chat through a Gradio Web App, by running `python app.py` from the command line, or by visiting https://huggingface.co/spaces/maxime/chat-with-your-telegram-chat
 
 
 
